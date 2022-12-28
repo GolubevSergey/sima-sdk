@@ -1,0 +1,17 @@
+{
+    "name": "golubevsergey/sima-land-sdk",
+    "description": "SDK for sima-land.ru API V5",
+    "autoload": {
+        "psr-4": {
+            "SimaLandSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GolubevSergey"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
